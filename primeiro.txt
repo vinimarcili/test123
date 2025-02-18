@@ -1,4 +1,4 @@
 Arquivo de teste
 Fiz uma alteração
 Nova alteração1
-Alteração na branch2
+Alteração na branch
