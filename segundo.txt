@@ -1,3 +1,4 @@
 sou o segundo arquivo
 Atualização Master
 Outra alteração
+Nova linha na branch master
