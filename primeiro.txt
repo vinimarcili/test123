@@ -1,5 +1,5 @@
 Arquivo de teste
 Fiz uma alteração
-Nova alteração1
-Alteração na branch
-nova linha
+Alteração na branch2
+
+Deletando e adicionando linha no arquivo primeiro
